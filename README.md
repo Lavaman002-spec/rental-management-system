@@ -20,3 +20,4 @@ This is a university project built using Object-Oriented Programming (OOP) princ
 - UML (class diagram included)
 
 ## Project Structure
+![image](https://github.com/user-attachments/assets/438e1bce-e47e-46b5-8ad8-5bf38834fae9)
